@@ -1,8 +1,10 @@
 # GCP_Egs
 
-Some screeshots from GCP developments. Currently code is not shared.
+Some screeshots from GCP learning developments. Currently code is not shared. 
 
-This is BigQuery with simple Looker Studio outputs
+This is BigQuery with simple Looker Studio outputs using data about Earthquakes in Japan. 
+
+The Gemini LLM was somewhat useful in writing SQL. Amazing :)
 
 <img width="955" alt="GCP3" src="https://github.com/seanvw/GCP_Egs/assets/18576156/6d6a61ee-7480-4fbc-91ba-dd68c7e8131a">
 
